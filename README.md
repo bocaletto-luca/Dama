@@ -8,6 +8,8 @@
 ![Project Completed](https://img.shields.io/badge/Project-Completed-green?style=for-the-badge)
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Dama/)
+
 ## Overview
 
 **Checkers WebGame Single Player** is a complete browser-based checkers game that faithfully implements official rules—including mandatory captures, jump chains, and king promotion (visually marked with a golden border and a "D"). The app features real-time clocks, move history, undo/reset functionality, and an intelligent bot with three difficulty levels (Easy, Medium, Hard).
